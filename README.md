@@ -1,1 +1,1 @@
-# JavaScript-Day-2
+# JavaScript-Day-3
